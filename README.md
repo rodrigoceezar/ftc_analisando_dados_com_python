@@ -8,7 +8,9 @@
 
 #### Fui contratado como um Cientista de Dados para criar soluções de dados para entrega, mas antes de treinar algoritmos, a necessidade da empresa é ter um os principais KPIs estratégicos organizados em uma única ferramenta, para que o CEO possa consultar e conseguir tomar decisões simples, porém importantes.
 
-#### Cury Company possui um modelo de negócio chamado Marketplace, que fazer o intermédio do negócio entre três clientes principais: Restaurantes, entregadores e pessoas compradoras. Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguintes métricas de crescimento:
+#### Cury Company possui um modelo de negócio chamado Marketplace, que fazer o intermédio do negócio entre três clientes principais: Restaurantes, entregadores e pessoas compradoras. 
+
+- Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguintes métricas de crescimento:
 
 ### Do lado da empresa:
 1. Quantidade de pedidos por dia.
@@ -36,4 +38,4 @@
 tráfego.
 6. O tempo médio de entrega durantes os Festivais
 
-O seu primeiro objetivo como Cientista de Dados é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possívelpara o CEO.
+O meu primeiro objetivo como **Cientista de Dados** é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possívelpara o CEO.
