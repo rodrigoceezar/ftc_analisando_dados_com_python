@@ -17,8 +17,8 @@
 2. Quantidade de pedidos por semana.
 3. Distribuição dos pedidos por tipo de tráfego.
 4. Comparação do volume de pedidos por cidade e tipo de tráfego.
-4. A quantidade de pedidos por entregador por semana.
-5. A localização central de cada cidade por tipo de tráfego.
+5. A quantidade de pedidos por entregador por semana.
+6. A localização central de cada cidade por tipo de tráfego.
 
 ### Do lado do entregador:
 1. A menor e maior idade dos entregadores.
